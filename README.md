@@ -511,6 +511,7 @@ Table of Contents
    * [giscloud.com](http://giscloud.com/) — Visualize, analyze and share geo data online
    * [latlon.io](https://latlon.io/) — Geocoding API + school districts, census geography divisons and other address based data. 2,500 free requests/month
    * [mapbox.com](https://mapbox.com/) — Maps, geospatial services and SDKs for displaying map data
+   * [dekart.xyz](https://dekart.xyz/) - Create and share kepler.gl maps by connecting to your database. Free for private usage
 
 ## Package Build System
 
